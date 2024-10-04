@@ -1,6 +1,6 @@
 <h2>Hi there👋🏻</h2>
 
-I am DOcK, and I like to create apps, funny games, and neural networks.
+I am YamiSora, and I like to create apps, funny games, and neural networks.
 
 
 
